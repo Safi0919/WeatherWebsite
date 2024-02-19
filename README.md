@@ -29,4 +29,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any questions or suggestions regarding the Weather App, feel free to reach out:
 
 - Email: safisaif4444@gmail.com
-- GitHub Project Link: [https://github.com/safi0919/WeatherWebsite](https://github.com/Safi0919/WeatherWebsite)
+- GitHub Project Link: [PROJECT LINK](https://github.com/Safi0919/WeatherWebsite)
